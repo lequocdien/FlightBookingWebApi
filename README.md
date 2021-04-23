@@ -18,11 +18,15 @@ Cung cấp các api về:
 
 - MS SQL Server.
 - Asp.net WebApi, Entity Framework Code First.
-- Mô hình 3 layers (Data, Service, Presentation) IoC (Autofac), Swagger.
+- Khác:
+  - Mô hình 3 layers (Data, Service, Presentation).
+  - IoC (Autofac).
+  - Swagger.
 
 ### Demo
 
 <img src="https://i.imgur.com/ugNFinw.png">
 
+<img src="https://imgur.com/n0ouhWD.png">
 
-
+<img src="https://imgur.com/CILqLqn.png">
